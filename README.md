@@ -1,4 +1,4 @@
-#  Who is Kev ?:
+#  👤About Kev:
 Kevin is a dynamic and innovative developer, highly proficient in Python, with substantial experience in web design and development. He has contributed to impactful projects, including collaborating on the development of an application initially built in Python, which was later converted to PHP for broader compatibility. This experience reflects his ability to work across multiple platforms and adapt to project requirements seamlessly. Kevin possesses a strong foundation in C++ and SQL, enabling him to design efficient database solutions and contribute to versatile software development projects. He thrives in collaborative environments, leveraging excellent problem-solving skills and attention to detail to deliver impactful results. With a passion for continuous learning, Kevin stays up-to-date with the latest technologies, ensuring his work is cutting-edge and effective.<br>
 
 
